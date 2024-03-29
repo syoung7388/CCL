@@ -2,7 +2,7 @@
 
 ## What is CCL?
 
-<div style="text-align:center">
+<div style="text-align:left">
     <img src="./CCL.jpg" alt="An Overview of the proposed pipeline"/>
 </div>
 

@@ -55,7 +55,7 @@ python contrastive_learning.py
 ```
 Arguments(major components),
 * `--dataset`: The dataset paths ('./datasets/slurp' or './datasets/fsc'). 
-* `--target`: The ASR module name ('wave2vec2.0' or 'google'). Given a noisy ASR transcript that has been converted to text by the ASR module.
+* `--target`: The ASR module name ('wave2vec2.0' or 'google').
 * `--ckpt`: The save paths.
 * `--lambda1`: ration for the utterance contrastive objective 
 * `--lambda2`: ration for the selective token contrastive objective

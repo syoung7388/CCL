@@ -65,7 +65,7 @@ Arguments(major components),
 #### 2) Consistency learning
 
 ```shell
-python contrastive_learning.py
+python consistency_learning.py
 ```
 Arguments(major components),
 * `--dataset`: The dataset paths ('./datasets/slurp' or './datasets/fsc'). 

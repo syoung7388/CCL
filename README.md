@@ -6,8 +6,7 @@
     <img src="./CCL.jpg" alt="An Overview of the proposed pipeline"/>
 </div>
 
-Contrastive and Consistency Learning (CCL) is a training method to solve ASR error problems when using pre-trained language models in a modular approach. The CCL method performs token-based contrast learning
-followed by consistency learning. 1) Token-based contrastive learning aims to correlate errors in the noisy ASR transcript with the corresponding clean transcript at both utterance and token levels. 2) Consistency learning emphasizes the coherence between clean and noisy latent features to avoid misclassifying the noisy ASR transcriptions. 
+Contrastive and Consistency Learning (CCL) is a training method to solve ASR error problems when using pre-trained language models in a modular approach. The CCL method performs token-based contrastive learning followed by consistency learning. 1) Token-based contrastive learning aims to correlate errors in the noisy ASR transcript with the corresponding clean transcript at both utterance and token levels. 2) Consistency learning emphasizes the coherence between clean and noisy latent features to avoid misclassifying the noisy ASR transcriptions. 
 
 
 
@@ -40,7 +39,7 @@ pip install -r requirements.txt
 
 ## Datasets
 
-For training and evaluating NLP tasks, we use benchmark datasets(SLURP, Timers and Such, FSC, SNIPS). Due to capacity issues, we are only releasing the SLURP and FSC datasets. We'll release the rest of the datasets later. 
+For training and evaluating SLU tasks, we use benchmark datasets(SLURP, Timers, FSC, and SNIPS). Due to capacity issues, we are only releasing the SLURP and FSC datasets. We'll release the rest of the datasets later. 
 
 
 

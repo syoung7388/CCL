@@ -1,6 +1,6 @@
 # Contrastive and Consistency Learning for Neural Noisy-Channel Model in Spoken Language Understanding (NAACL 2024)
 
-## What is CCL?
+## What is Contrastive and Consistency Learning (CCL)?
 
 <div style="text-align:left">
     <img src="./CCL.jpg" alt="An Overview of the proposed pipeline"/>

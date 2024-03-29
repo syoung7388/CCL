@@ -1,4 +1,4 @@
-# Repository for Contrastive and Consistency Learning(CCL) 
+# Contrastive and Consistency Learning for Neural Noisy-Channel Model in Spoken Language Understanding (NAACL 2024)
 
 ## What is CCL?
 

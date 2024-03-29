@@ -2,6 +2,10 @@
 
 ## What is CCL?
 
+<div style="text-align:center">
+    <img src="./CCL.jpg" alt="An Overview of the proposed pipeline"/>
+</div>
+
 Contrastive and Consistency Learning (CCL) is a training method to solve ASR error problems when using pre-trained language models in a modular approach. The CCL method performs token-based contrast learning
 followed by consistency learning. 1) Token-based contrastive learning aims to correlate errors in the noisy ASR transcript with the corresponding clean transcript at both utterance and token levels. 2) Consistency learning emphasizes the coherence between clean and noisy latent features to avoid misclassifying the noisy ASR transcriptions. 
 

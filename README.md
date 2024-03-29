@@ -19,7 +19,9 @@ followed by consistency learning. 1) Token-based contrastive learning aims to co
         ├── consistency_learning.py                # 2) consistency learning code 
         ├── make_dataset.py                        # dataset, dataloader code 
         ├── models.py                              # models code 
+        ├── edit_distance.py                       # edit distance code 
         ├── train_script.sh                        # training scripts (include huyperparameters used per dataset)
+        ├── eval_script.sh                         # eval scripts 
         └── README.md
 
 
